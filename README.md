@@ -60,7 +60,7 @@ A Flutter translation app that supports multiple languages. It checks a local Hi
 
 ## 🎥 Demo Video
 
-https://github.com/asmaa-sayed-mohammed/Translation_app/blob/master/assets/Translation_App.mp4
+https://github.com/asmaa-sayed-mohammed/Translation_app/blob/master/assets/Translation_App.mp4](https://drive.google.com/file/d/1n8gkjW_ktEg3oFTeebP-yVmYTFs__Y8q/view?usp=sharing
 
 
 ---
