@@ -19,7 +19,7 @@ A Flutter translation app that supports multiple languages. It checks a local Hi
 * **Flutter** (Frontend & UI)
 * **Dart**
 * **Hive** (Local database)
-* **HTTP / Dio** (API integration)
+* **Dio** (API integration)
 
 ---
 
@@ -58,9 +58,10 @@ A Flutter translation app that supports multiple languages. It checks a local Hi
    ```
 ---
 
-## 📸 Screenshots
+## 🎥 Demo Video
 
-*(Add screenshots of your app here to showcase UI)*
+https://github.com/asmaa-sayed-mohammed/Translation_app/blob/main/assets/demo.mp4
+
 
 ---
 
